@@ -1,0 +1,8 @@
+{
+  "name": "formulario-dinamico",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "python -m pip install -r requirements.txt && python app.py"
+  }
+}
